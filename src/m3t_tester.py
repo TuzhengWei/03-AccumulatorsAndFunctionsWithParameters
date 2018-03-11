@@ -10,9 +10,7 @@ Authors: Mark Hays and others.
 # Tt is intended only as a way to check your code.
 ##############################################################
 
-import m3_calling_functions_returning_values as m3
-import sys
-from io import StringIO
+def run_test_digits_in_cube():
 
 
 def main():
